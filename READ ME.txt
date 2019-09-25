@@ -1,0 +1,10 @@
+The music used was found after a search for free 8 bit music. The URL that I downloaded the track used is:
+soundimage.org/chiptunes/arcade-puzzler/
+
+The font used was found after a search for free TTF fonts. The URL that I downloaded the font is:
+1001fonts.com/text-fonts.html?page=8&items=10
+
+Additionally, even though I will mention this in the submission itself. There is a big problem with memory usage I
+cannot seem to figure out. I definitely need a little bit of help there.
+
+The controls are simple; W is up, A is left, S is down, and D is right.
